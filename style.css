@@ -131,19 +131,19 @@ nav.sticky .menu-btn{
 }
 .home .text-two{
   color: #000000;
-  font-size: 75px;
+  font-size: 70px;
   font-weight: 600;
   margin-left: -3px;
 }
 .home .text-three{
   font-size: 40px;
   margin: 5px 0;
-  color: #95606a;
+  color: #e2d4c7;
 }
 .home .text-four{
   font-size: 23px;
   margin: 5px 0;
-  color: #95606a;
+  color: #e2d4c7;
 }
 .home .button{
   margin: 14px 0;
@@ -249,7 +249,7 @@ section .button button{
   transition: all 0.4s ease;
 }
 section .button button:hover{
-  border-color: #ffffff;
+  border-color: #050000;
   background-color: #fff;
   color: #000000;
 }
